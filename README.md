@@ -1,4 +1,4 @@
-#SpaceBattle </br>
+#SpaceBattle! </br>
 </br>
 A clone of SpaceWar! (1961). You control spaceships which can accelerate/decelerate, turn, shoot, and teleport; all around a sun/black hole.</br>
 P1 is 'w'/'s' accelerate and deccelerate, 's'/'d' for turning, 'q' for shoot and 'e' for teleport</br>
